@@ -1,0 +1,129 @@
+_repo: The-Critique-of-Pure-Reason_4280
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Meiklejohn, J. M. D. (John Miller Dow)
+    alias: Meiklejohn, John Miller Dow
+    birthdate: 1830
+    deathdate: 1902
+    gutenberg_agent_id: '24846'
+    url: http://www.gutenberg.org/2009/agents/24846
+creator:
+  author:
+    agent_name: Kant, Immanuel
+    aliases:
+    - Kant, I. (Immanuil)
+    - Kant, Emmanuel
+    birthdate: 1724
+    deathdate: 1804
+    gutenberg_agent_id: '1426'
+    url: http://www.gutenberg.org/2009/agents/1426
+    wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
+description: "The Critique of Pure Reason (German: Kritik der reinen Vernunft, KrV)\
+  \ by Immanuel Kant, (first published in 1781, second edition 1787), is one of the\
+  \ most influential works in the history of philosophy. Also referred to as Kant's\
+  \ First Critique, it was followed by the Critique of Practical Reason (1788) and\
+  \ the Critique of Judgment (1790). In the preface to the first edition Kant explains\
+  \ what he means by a critique of pure reason: \"I do not mean by this a critique\
+  \ of books and systems, but of the faculty of reason in general, in respect of all\
+  \ knowledge after which it may strive independently of all experience.\" Dealing\
+  \ with questions concerning the foundations and extent of human knowledge, Kant\
+  \ builds on the work of empiricist philosophers such as John Locke and David Hume,\
+  \ as well as taking into account the theories of rationalist philosophers such as\
+  \ Gottfried Wilhelm Leibniz and Christian Wolff. Kant expounds new ideas on the\
+  \ nature of space and time, and claims to solve the problem which Hume posed regarding\
+  \ human knowledge of the relation of cause and effect, and to have assessed the\
+  \ ability of the human mind to engage in metaphysics.\nKnowledge independent of\
+  \ experience is referred to by Kant as \"a priori\" knowledge, while knowledge obtained\
+  \ through experience is termed \"a posteriori\". According to Kant, \"a priori\"\
+  \ knowledge expresses necessary truths. Statements which are necessarily true cannot\
+  \ be negated without becoming false. Examples provided by Kant include the propositions\
+  \ of mathematics, propositions \"from the understanding in its quite ordinary employment\"\
+  , such as \"Every alteration must have a cause\", as well as propositions from \"\
+  natural science (physics)\", such as \"in all changes in the material world the\
+  \ quantity of matter remains unchanged\".\nKant believed that he had discovered\
+  \ another attribute of propositions, which allowed him to frame the problem of a\
+  \ priori knowledge in a new way: the distinction between \"analytic\" and \"synthetic\"\
+  \ judgments. According to Kant, to say that a sentence is \"analytic\" is to say\
+  \ that what is stated in the predicate-concept of the sentence is already contained\
+  \ (albeit covertly) in the subject-concept of that sentence. The example he provides\
+  \ is the sentence, \"All bodies are extended\", which is \"analytic\" since the\
+  \ predicate-concept (\"extended\") is already contained in — or \"thought in\" —\
+  \ the subject-concept of the sentence (\"bodies\"). Kant considered the judgment,\
+  \ \"All bodies are heavy\" synthetic, since \"I do not include in the concept of\
+  \ body in general the predicate 'weight'\". Synthetic judgments therefore add something\
+  \ to a concept, whereas analytic judgments only explain what is already contained\
+  \ in the concept.\nThe distinctive character of \"analytic\" judgments was therefore\
+  \ that they can be known to be true simply by an analysis of the concepts contained\
+  \ in them — or, alternatively, are true by definition. Prior to Kant, it was thought\
+  \ that all necessary truth had the character of being \"analytic\". Kant argued\
+  \ that not all necessary truths are analytic, but that some of them are synthetic.\
+  \ Having explained that the basis of analytic judgments lies in the principle of\
+  \ contradiction, (or the principle of identity), the task he set out to achieve\
+  \ in the Critique of Pure Reason was to explain the grounds of those judgments which\
+  \ are necessary and synthetic — and these he termed \"a priori synthetic judgments\"\
+  .\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4280'
+  wikidata: Q220002
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Reason'
+- !lcsh 'Philosophy, German'
+- !lcc 'B'
+- !lcsh 'Causation'
+- GITenberg
+title: The Critique of Pure Reason
+url: http://www.gutenberg.org/ebooks/4280
+wikipedia:
+- https://fi.wikipedia.org/wiki/Puhtaan_j%C3%A4rjen_kritiikki
+- https://eo.wikipedia.org/wiki/Kritiko_de_Pura_Racio
+- https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D1%87%D0%B8%D1%81%D1%82%D0%BE%D0%B3%D0%BE_%D1%80%D0%BE%D0%B7%D1%83%D0%BC%D1%83
+- https://fa.wikipedia.org/wiki/%D9%86%D9%82%D8%AF_%D8%B9%D9%82%D9%84_%D9%85%D8%AD%D8%B6
+- https://ru.wikisource.org/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D1%87%D0%B8%D1%81%D1%82%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0
+- https://en.wikisource.org/wiki/Critique_of_Pure_Reason
+- https://ku.wikipedia.org/wiki/Rexneya_aqil%C3%AA_sel%C3%AEm
+- https://gl.wikipedia.org/wiki/Cr%C3%ADtica_da_raz%C3%B3n_pura
+- https://fr.wikisource.org/wiki/Critique_de_la_raison_pure
+- https://az.wikipedia.org/wiki/T%C9%99miz_idrak%C4%B1n_t%C9%99nqidi
+- https://ja.wikipedia.org/wiki/%E7%B4%94%E7%B2%8B%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4
+- https://pt.wikipedia.org/wiki/Cr%C3%ADtica_da_Raz%C3%A3o_Pura
+- https://de.wikisource.org/wiki/Critik_der_reinen_Vernunft_(1781)
+- https://es.wikipedia.org/wiki/Cr%C3%ADtica_de_la_raz%C3%B3n_pura
+- https://sk.wikipedia.org/wiki/Kritika_%C4%8Dist%C3%A9ho_rozumu
+- https://en.wikipedia.org/wiki/Critique_of_Pure_Reason
+- https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D1%87%D0%B8%D1%81%D1%82%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0
+- https://ro.wikipedia.org/wiki/Critica_ra%C8%9Biunii_pure
+- https://ko.wikipedia.org/wiki/%EC%88%9C%EC%88%98%EC%9D%B4%EC%84%B1%EB%B9%84%ED%8C%90
+- https://et.wikipedia.org/wiki/Puhta_m%C3%B5istuse_kriitika
+- https://fr.wikipedia.org/wiki/Critique_de_la_raison_pure
+- https://zh.wikipedia.org/wiki/%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4
+- https://no.wikipedia.org/wiki/Kritikk_av_den_rene_fornuft
+- https://pl.wikipedia.org/wiki/Krytyka_czystego_rozumu
+- https://da.wikipedia.org/wiki/Kritik_af_den_rene_fornuft
+- https://es.wikisource.org/wiki/Cr%C3%ADtica_de_la_raz%C3%B3n_pura
+- https://sv.wikipedia.org/wiki/Kritik_av_det_rena_f%C3%B6rnuftet
+- https://af.wikipedia.org/wiki/Kritiek_van_Reine_Beredening
+- https://hu.wikipedia.org/wiki/A_tiszta_%C3%A9sz_kritik%C3%A1ja
+- https://is.wikipedia.org/wiki/Gagnr%C3%BDni_hreinnar_skynsemi
+- https://mk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%87%D0%B8%D1%81%D1%82%D0%B8%D0%BE%D1%82_%D1%83%D0%BC
+- https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%AF_%D8%A7%D9%84%D8%B9%D9%82%D9%84_%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%B5
+- https://nl.wikipedia.org/wiki/Kritik_der_reinen_Vernunft
+- https://cs.wikipedia.org/wiki/Kritika_%C4%8Dist%C3%A9ho_rozumu
+- https://oc.wikipedia.org/wiki/Critica_de_la_rason_pura
+- https://de.wikipedia.org/wiki/Kritik_der_reinen_Vernunft
+- https://lrc.wikipedia.org/wiki/%D9%86%D9%82%D8%AF_%D8%B1%D9%88%D8%B4%D9%86_%D9%88%DB%8C%D8%B1%DB%8C_%D9%86%D8%A7%D8%A8
+- https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%87%D0%B8%D1%81%D1%82%D0%B8%D1%8F_%D1%80%D0%B0%D0%B7%D1%83%D0%BC
+- https://it.wikipedia.org/wiki/Critica_della_ragion_pura
+- https://la.wikipedia.org/wiki/Critica_rationis_purae
+- https://hr.wikipedia.org/wiki/Kritika_%C4%8Distog_uma
+- https://ca.wikipedia.org/wiki/Cr%C3%ADtica_de_la_ra%C3%B3_pura
+- https://tr.wikipedia.org/wiki/Saf_Akl%C4%B1n_Ele%C5%9Ftirisi
+- https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%AA_%D7%94%D7%AA%D7%91%D7%95%D7%A0%D7%94_%D7%94%D7%98%D7%94%D7%95%D7%A8%D7%94
